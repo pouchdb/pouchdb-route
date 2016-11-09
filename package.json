@@ -16,7 +16,7 @@
 	"license": "Apache-2.0",
 	"author": "Marten de Vries",
 	"dependencies": {
-		"pouchdb-plugin-error": "^1.0.0",
+		"pouchdb-plugin-error": "^1.0.1",
 		"extend": "^1.2.1"
 	}
 }
